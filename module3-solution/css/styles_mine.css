@@ -1,18 +1,31 @@
 body{
-    font-size: 16px;
-    color:#fff;
-    background-color:#61122f; 
+    
+    color: rgb(223, 169, 89);
     font-family: 'Oxygen', sans-serif;
 }
-#header-nav{
-    background-color: #f6b319;
-    border-radius: 0px;
-    border: 0;
+a #brand_name{
+    margin-left: -50px;
+    font-size: 200%;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
-
-#logo-img {
-    background: url('../images/restaurant-logo_large.png') no-repeat;
-    width: 150px;
-    height: 150px;
-    margin: 10px 15px 10px 0;
-  }
+a{
+    color: rgb(223, 169, 89);
+}
+#header-nav{
+    background-color:#b61717;
+    border-radius: 0%;
+}
+#header-nav a:hover,a:active{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+#header-nav a:link a:visited{
+    color: rgb(223, 169, 89);
+}
+div.chicken{
+    background-color: rgb(228, 228, 198);
+}
+.navbar-toggle{
+    
+}
