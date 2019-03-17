@@ -41,4 +41,8 @@ a{
     color: rgb(223, 169, 89);
     background-color:#b61717;
 }
+.navbar-toggle{
+    clear: both;
+    margin-top: -15px;
+}
 
